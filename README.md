@@ -15,7 +15,7 @@ Community
 * [Mozilla Science](https://science.mozilla.org) is a community of researchers, developers, and librarians making research open and accessible.
 * [Research Data Alliance](https://www.rd-alliance.org/) (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
 * [The Software Sustainability Institute](https://www.software.ac.uk/)'s mission is to cultivate better, more sustainable, research software to enable world-class research.
-
+* [Openscience.org](http://openscience.org) supports the development of open scientific software, in particular for cheminformatics. 
 
 Software as Experimental Tool
 ------------------------------
@@ -42,6 +42,9 @@ Papers ([edit to add one](https://github.com/INRIA/awesome-open-science-software
 * [Enhancing reproducibility for computational methods (Science, Dec 2016, Vol. 354)](http://science.sciencemag.org/content/354/6317/1240)
 * [Journal of Open Source Software - JOSS](http://joss.theoj.org) The Journal of Open Source Software (JOSS) is a journal for research software packages. JOSS papers enable citation of research software packages with a DOI.
 
+Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/edit/gh-pages/README.md)):
+
+* [Depsy](http://depsy.org/) helps build the software-intensive science of the future by promoting credit for software as a fundamental building block of science. 
 
 Software as Study Subject
 -------------------------
@@ -65,5 +68,6 @@ Software Support for Open Science
 *  [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
+* [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
 
 
